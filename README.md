@@ -1,4 +1,24 @@
-##  Smart Resume Screener
+#  Smart Resume Screener
+
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)
+![SBERT](https://img.shields.io/badge/NLP-Sentence--BERT-blueviolet)
+![Status](https://img.shields.io/badge/Project%20Level-Mid--Advanced-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Deployed](https://img.shields.io/badge/Live-App-brightgreen)
+
+🎯 **Smart Resume Screener** is an AI-powered Streamlit app that scores resumes against job descriptions using **semantic similarity** and **keyword skill matching**. Built with **SBERT**, **PyMuPDF**, and **Streamlit**, it parses PDF resumes, extracts experience/skills, and returns a match score — helping recruiters and applicants understand job fit instantly.
+
+🔍 **Core Features:**
+- 📄 Upload resume in PDF
+- ✍️ Enter job description manually
+- 🧠 Semantic similarity using Sentence-BERT
+- 💼 Experience extraction (in years)
+- ✅ Skill keyword overlap detection
+- 🌟 Clean UI with Streamlit
+
+🌐 **Live App**: [Smart Resume Screener 🔗](https://smart-resume-screener-5dud.onrender.com)  
+📂 **GitHub Repo**: [mlwithharsh/Smart_Resume_screener](https://github.com/mlwithharsh/Smart_Resume_screener)
+
 
 A **real-world NLP project** that uses **semantic similarity**, **keyword matching**, and **experience extraction** to evaluate resumes against job descriptions and generate a match score.
 
